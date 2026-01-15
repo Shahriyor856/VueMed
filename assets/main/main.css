@@ -1,0 +1,84 @@
+html,
+body {
+  width: 100%;
+  min-height: 100%;
+}
+
+body {
+  box-sizing: border-box !important;
+  margin: 0;
+  padding: 0;
+}
+.boder {
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+}
+
+.noneBorder:focus {
+  border: none;
+  outline: none;
+}
+
+.boder-bottom {
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  box-shadow: 0 4.773px 19.091px 0 rgba(0, 0, 0, 0.16);
+}
+
+.boder-bottom-two {
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+
+.boder-left {
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+.boder-right {
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+.container {
+  max-width: 2578px;
+}
+
+.inputBorder-top {
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+
+.inputBorder-bottom {
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+.boder-buttom-modal {
+  border-radius: 30px;
+}
+
+.boirt {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.forPadding:first-child {
+  padding-top: 20px;
+}
+
+/* Apply padding-bottom only to the last element with this class */
+.forPadding:last-child {
+  padding-bottom: 20px;
+}
+
+.border-left {
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.border-right {
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+

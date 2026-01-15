@@ -1,0 +1,28 @@
+{
+  "header": "\"O‘zbekiston temir yo‘llari\" AJ Markaziy poliklinikasining pullik tibbiy xizmatlari uchun narxlar ro‘yxati",
+  "AboutUs": "Biz haqimizda",
+  "PriceList": "Narxlar ro‘yxati",
+  "Hone": "O‘zbekiston temir yo‘llari AJning 2019-yil 25-iyundagi 822-N-sonli buyrug‘ining 1-ilovasiga asosan davolash-profilaktika muassasalarida pullik tibbiy xizmat ko‘rsatish tariflarini shakllantirish",
+  "Htwo": "2025-yil 01-martdan boshlab amalda.",
+  "inputP": "Tibbiy xizmat ko‘rsatish tarifini qidirish",
+  "input": "Tibbiy xizmat ko‘rsatish tarifini yozing...",
+  "back": "Ortga qaytish",
+  "Doctor": "\"Oʻzbekiston temir yoʻllari\" AJ ning 25-iyun 2019-yildagi 822-N sonli buyrugʻining 1-ilovasiga asosan \"Davolash-profilaktik muassasalarida pullik tibbiy xizmat koʻrsatish tariflarini shakllantirish\"",
+  "InfoDoc": "5 yillik tajribaga ega mutaxassis bo‘lib, ular Yaponiya davlatida malaka ham oshirganlar, hozirgi kunda eng yetuk shifokor mutaxassislardan biri. Sizga aynan shu inson tashxis qo‘yishi va to‘liq davolanib chiqishingiz uchun yordam beruvchi qahramonimiz bo‘ladi. 15 yillik tajribaga ega mutaxassis bo‘lib, ular Yaponiya davlatida malaka ham oshirganlar, hozirgi kunda eng yetuk shifokor mutaxassislardan biri. Sizga aynan shu inson tashxis qo‘yishi va to‘liq davolanib chiqishingiz uchun yordam beruvchi qahramonimiz bo‘ladi.",
+
+  "items": {
+    "item1": "Klinik-diagnostika laboratoriyasi",
+    "item2": "Virusli kasalliklar serologiyasi va etiologiyasi",
+    "item3": "Klinik-biokimyoviy tahlillar",
+    "item4": "Bakteriologik laboratoriya"
+  },
+
+  "codes": {
+    "code1": "Qon tahlili – gemoglobin",
+    "code2": "Chandiqlar: diagonal bo‘yicha mahalliy to‘qimalar plastikasi bilan keloid chandiqlarni olib tashlash: 80 mm gacha"
+  },
+  "doctors": {
+    "doctortextOne": "Bahodiro Narzulla Baxtiyarovich",
+    "doctortextTwo": "tibbiy xizmatlar va diagnostika bo‘yicha mutaxassis."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "header": "Price list for paid medical services of the Central Polyclinic of \"Uzbekistan Railways\" JSC",
+  "AboutUs": "About Us",
+  "PriceList": "Price List",
+  "Hone": "Formation of tariffs for paid medical services in treatment and preventive institutions in accordance with Appendix 1 to Order No. 822-N dated June 25, 2019 of \"Uzbekistan Railways\" JSC",
+  "Htwo": "Effective from March 1, 2025.",
+  "inputP": "Search for medical service tariffs",
+  "input": "Enter the medical service tariff...",
+  "back": "Go back",
+  "Doctor": "Formation of tariffs for paid medical services in treatment and preventive institutions in accordance with Appendix 1 to Order No. 822-N dated June 25, 2019 of \"Uzbekistan Railways\" JSC",
+  "InfoDoc": "A specialist with 5 years of experience who has also completed advanced training in Japan and is currently one of the most qualified doctors. This person will be the one who provides you with an accurate diagnosis and helps you fully recover. A specialist with 15 years of experience who has also completed advanced training in Japan and is currently one of the most qualified doctors. This person will be the one who provides you with an accurate diagnosis and helps you fully recover.",
+
+  "items": {
+    "item1": "Clinical Diagnostic Laboratory",
+    "item2": "Serology and etiology of viral diseases",
+    "item3": "Clinical and biochemical analyses",
+    "item4": "Bacteriological laboratory"
+  },
+
+  "codes": {
+    "code1": "Blood test – hemoglobin",
+    "code2": "Scars: removal of keloid scars with local tissue plasty using a diagonal method, up to 80 mm"
+  },
+
+  "doctors": {
+    "doctortextOne": "Bahodiro Narzulla Bakhtiyarovich",
+    "doctortextTwo": "Specialist in medical services and diagnostics."
+  }
+}
