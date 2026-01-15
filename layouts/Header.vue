@@ -53,6 +53,22 @@
           </p>
         </NuxtLink>
 
+        <NuxtLink
+          to="/secondPage"
+          class="flex items-center gap-2 sm:gap-3 md:gap-4 xl:gap-5 px-3 py-2 sm:px-4 sm:py-3 md:px-5 md:py-4 xl:px-6 xl:py-5 rounded-[20px] transition-colors duration-200 bg-[#D7E8FF] border border-[#145CB8] cursor-pointer"
+        >
+          <img
+            :src="Info"
+            alt="icon"
+            class="w-5 h-5 sm:w-8 sm:h-8 md:w-10 md:h-10 xl:w-12 xl:h-12 2xl:w-14 2xl:h-14 aspect-square"
+          />
+          <p
+            class="text-[#145CBB] font-inter font-medium text-[12px] sm:text-[18px] md:text-[22px] xl:text-[25px] 2xl:text-[28px] leading-none text-center"
+          >
+            {{ $t("AboutUs") }}
+          </p>
+        </NuxtLink>
+
         <!-- Language Buttons -->
         <div
           class="flex items-center gap-2 sm:gap-3 md:gap-4 xl:gap-5 2xl:gap-6"
