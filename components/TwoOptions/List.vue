@@ -65,6 +65,7 @@
                     class="text-[#145CB8] font-inter font-semibold text-base sm:text-2xl"
                   >
                     {{ idx + 1 }}
+                    nimadir
                   </p>
                   <p
                     class="text-[#222932] font-inter font-semibold leading-[1.1] text-base px-[20px] sm:text-2xl"

@@ -111,29 +111,28 @@
 </template>
 
 <script setup>
-import { ref, computed } from "vue"
-import { useI18n } from "vue-i18n"
-import search from "@/assets/images/search.svg"
-import back from "@/assets/images/back.svg"
-import { tableData } from "~/constants/tableData"
+import { ref, computed } from "vue";
+import { useI18n } from "vue-i18n";
+import search from "@/assets/images/search.svg";
+import back from "@/assets/images/back.svg";
+import { tableData } from "~/constants/tableData";
 
-const { t } = useI18n()
+const { t } = useI18n();
 
 const props = defineProps({
   obj: {
     type: Object,
     required: true,
   },
-})
+});
 
-const searchQuery = ref("")
+const searchQuery = ref("");
 
 const filteredTableData = computed(() => {
-  if (!searchQuery.value) return tableData
-  const q = searchQuery.value.toLowerCase()
-  return tableData.filter(item =>
+  if (!searchQuery.value) return tableData;
+  const q = searchQuery.value.toLowerCase();
+  return tableData.filter((item) =>
     t(`codes.${item.text}`).toLowerCase().includes(q)
-  )
-})
+  );
+});
 </script>
-
