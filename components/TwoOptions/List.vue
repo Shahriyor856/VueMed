@@ -24,7 +24,7 @@
               <p
                 class="text-white text-sm sm:text-lg md:text-xl lg:text-2xl xl:text-4xl"
               >
-                {{ index + 1 }}  to understand the github
+                {{ index + 1 }}
               </p>
             </div>
           </div>
@@ -35,7 +35,7 @@
             <p
               class="font-inter font-semibold text-sm sm:text-lg md:text-xl lg:text-2xl xl:text-4xl text-[#145CB8]"
             >
-              {{ $t(`items.${dept.name}`) }} to understand the github
+              {{ $t(`items.${dept.name}`) }}
             </p>
             <img
               :src="activeIndex === index ? down : right"
@@ -65,7 +65,6 @@
                     class="text-[#145CB8] font-inter font-semibold text-base sm:text-2xl"
                   >
                     {{ idx + 1 }}
-                 
                   </p>
                   <p
                     class="text-[#222932] font-inter font-semibold leading-[1.1] text-base px-[20px] sm:text-2xl"
