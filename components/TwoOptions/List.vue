@@ -24,7 +24,7 @@
               <p
                 class="text-white text-sm sm:text-lg md:text-xl lg:text-2xl xl:text-4xl"
               >
-                {{ index + 1 }}
+                {{ index + 1 }}  to understand the github
               </p>
             </div>
           </div>
@@ -35,7 +35,7 @@
             <p
               class="font-inter font-semibold text-sm sm:text-lg md:text-xl lg:text-2xl xl:text-4xl text-[#145CB8]"
             >
-              {{ $t(`items.${dept.name}`) }}
+              {{ $t(`items.${dept.name}`) }} to understand the github
             </p>
             <img
               :src="activeIndex === index ? down : right"
