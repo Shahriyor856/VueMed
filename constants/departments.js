@@ -44,12 +44,12 @@ export const department = [
     name: "item2",
     image: imageTwo,
   },
-  {
-    name: "item3",
-    image: imageThree,
-  },
-  {
-    name: "item4",
-    image: imageFour,
-  },
+  // {
+  //   name: "item3",
+  //   image: imageThree,
+  // },
+  // {
+  //   name: "item4",
+  //   image: imageFour,
+  // },
 ];
