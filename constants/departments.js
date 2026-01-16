@@ -20,7 +20,7 @@ export const department = [
     name: "item4",
     image: imageFour,
   },
-    {
+  {
     name: "item1",
     image: imageOne,
   },
@@ -35,7 +35,8 @@ export const department = [
   {
     name: "item4",
     image: imageFour,
-  },  {
+  },
+  {
     name: "item1",
     image: imageOne,
   },
