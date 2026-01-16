@@ -105,9 +105,9 @@ const language = [
   { code: "en", label: "En", img: flagKingdom },
 ];
 
-
 const changeLang = (code) => {
   activeLange.value = code;
   setLocale(code);
 };
+console.log("test");
 </script>
