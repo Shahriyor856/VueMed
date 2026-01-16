@@ -20,35 +20,35 @@ export const department = [
     name: "item4",
     image: imageFour,
   },
-    {
-    name: "item1",
-    image: imageOne,
-  },
-  {
-    name: "item2",
-    image: imageTwo,
-  },
-  {
-    name: "item3",
-    image: imageThree,
-  },
-  {
-    name: "item4",
-    image: imageFour,
-  },  {
-    name: "item1",
-    image: imageOne,
-  },
-  {
-    name: "item2",
-    image: imageTwo,
-  },
-  {
-    name: "item3",
-    image: imageThree,
-  },
-  {
-    name: "item4",
-    image: imageFour,
-  },
+  //   {
+  //   name: "item1",
+  //   image: imageOne,
+  // },
+  // {
+  //   name: "item2",
+  //   image: imageTwo,
+  // },
+  // {
+  //   name: "item3",
+  //   image: imageThree,
+  // },
+  // {
+  //   name: "item4",
+  //   image: imageFour,
+  // },  {
+  //   name: "item1",
+  //   image: imageOne,
+  // },
+  // {
+  //   name: "item2",
+  //   image: imageTwo,
+  // },
+  // {
+  //   name: "item3",
+  //   image: imageThree,
+  // },
+  // {
+  //   name: "item4",
+  //   image: imageFour,
+  // },
 ];
