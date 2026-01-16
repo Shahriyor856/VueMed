@@ -23,34 +23,34 @@ export const tableData = [
 
     number: "26 000",
   },
-  // {
-  //   text: "code2",
-  //   digit: "5",
+  {
+    text: "code2",
+    digit: "5",
 
-  //   number: "26 000",
-  // },
-  // {
-  //   text: "code1",
-  //   digit: "6",
+    number: "26 000",
+  },
+  {
+    text: "code1",
+    digit: "6",
 
-  //   number: "26 000",
-  // },
-  // {
-  //   text: "code1",
-  //   digit: "7",
+    number: "26 000",
+  },
+  {
+    text: "code1",
+    digit: "7",
 
-  //   number: "26 000",
-  // },
-  // {
-  //   text: "code2",
-  //   digit: "8",
+    number: "26 000",
+  },
+  {
+    text: "code2",
+    digit: "8",
 
-  //   number: "26 000",
-  // },
-  // {
-  //   text: "code1",
-  //   digit: "9",
+    number: "26 000",
+  },
+  {
+    text: "code1",
+    digit: "9",
 
-  //   number: "26 000",
-  // },
+    number: "26 000",
+  },
 ];
