@@ -53,10 +53,6 @@
           </p>
         </NuxtLink>
 
-
-
-        
-
         <!-- Language Buttons -->
         <div
           class="flex items-center gap-2 sm:gap-3 md:gap-4 xl:gap-5 2xl:gap-6"
@@ -108,6 +104,7 @@ const language = [
   { code: "ru", label: "Ру", img: flagRu },
   { code: "en", label: "En", img: flagKingdom },
 ];
+
 
 const changeLang = (code) => {
   activeLange.value = code;
