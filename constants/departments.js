@@ -3,6 +3,7 @@ import imageTwo from "../assets/images/imageTwo.svg";
 import imageThree from "../assets/images/imageThree.svg";
 import imageFour from "../assets/images/imageFour.svg";
 
+console.log("test");
 export const department = [
   {
     name: "item1",
